@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Inex Nanobit & BBC micro:bit",
+      "name": "inex_nanobit",
       "maintainer": "Phuwasit Eiamsouyngam",
       "websiteURL": "https://www.inex.co.th",
       "email": "Phuwasit@P-robotics.net",
@@ -28,12 +28,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "sandeepmistry",
+              "packager": "inex_nanobit",
               "name": "gcc-arm-none-eabi",
               "version": "5_2-2015q4"
             },
             {
-              "packager": "sandeepmistry",
+              "packager": "inex_nanobit",
               "name": "openocd",
               "version": "0.10.0-dev.nrf5"
             }
