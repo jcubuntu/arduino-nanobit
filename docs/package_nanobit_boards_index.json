@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/jcubuntu/arduino-nanobit/archive/0.1.0.tar.gz",
           "archiveFileName": "arduino-nanobit-0.1.0.tar.gz",
-          "checksum": "MD5:4b31138597b32bb27ee602469e8c1595",
-          "size": "1483338",
+          "checksum": "MD5:b6c7ece0dc1cbebcaf7e29993dc2916d",
+          "size": "1482203",
           "boards": [
             {"name": "Nanobit"},
             {"name": "BBC micro:bit"},
